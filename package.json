@@ -1,0 +1,25 @@
+{
+  "name": "utils",
+  "version": "0.0.1",
+  "private": false,
+  "description": "JavaScript工具库",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "qingzhuyue",
+  "keywords": [
+    "utils",
+    "duxin-utils"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qingzhuyue/duxin-utils"
+  },
+  "bugs": {
+    "url": "https://github.com/qingzhuyue/duxin-utils/issues",
+    "email": "qingzhuyue@foxmail.com"
+  },
+  "license": "ISC"
+}
